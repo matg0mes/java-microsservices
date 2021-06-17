@@ -19,9 +19,6 @@ import com.example.demo.repository.WorkerRepository;
 @RequestMapping(value = "/workers")
 public class WorkerResource {
 
-	@Value("${test.config}")
-	private String testConfig;
-	
 	@Autowired
 	private WorkerRepository repository;
 
@@ -35,11 +32,6 @@ public class WorkerResource {
 	public ResponseEntity<Worker> findById(@PathVariable Long id) {
 		Worker obj = repository.findById(id).get();
 		return ResponseEntity.ok(obj);
-	}
-
-	@GetMapping(value = "/configs")
-	public ResponseEntity<String> getConfigs(){
-		return ResponseEntity.ok(testConfig);
 	}
 
 }
