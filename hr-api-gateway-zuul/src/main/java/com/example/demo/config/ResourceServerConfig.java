@@ -25,7 +25,8 @@ public class ResourceServerConfig extends ResourceServerConfigurerAdapter {
 	};
 
 	private static final String[] ADMIN = {
-			"/hr-payroll/**", "/hr-user/**", "/hr-oauth/**" 
+			"/hr-payroll/**", "/hr-user/**", "/hr-oauth/**", "/actuator/**", "/hr-worker/actuator/**",
+			"/hr-oauth/actuator/**"
 	};
 
 	@Override
