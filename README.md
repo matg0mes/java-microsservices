@@ -8,3 +8,12 @@ Projeto na arquitetura de microsserviços onde cada serviço tem suas chamadas c
   </a>
 <p/>
 
+## Modelagem Conceitual 
+
+Foi utilizado o banco de dados em memória H2 com a seguinte modelagem:
+
+<p align="center">
+  <a href="https://github.com/matg0mes/java-microsservices">
+    <img align="center" width="550" src="https://i.pinimg.com/originals/8b/4b/72/8b4b7229e50699ca387ce617b2dae4e3.jpg">
+  </a>
+<p/>
