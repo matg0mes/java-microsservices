@@ -17,3 +17,7 @@ Foi utilizado o banco de dados em memória H2 com a seguinte modelagem:
     <img alt="Modelagem conceitual" width="400" src="https://i.pinimg.com/originals/8b/4b/72/8b4b7229e50699ca387ce617b2dae4e3.jpg">
   </a>
 <p/>
+
+<hr />
+
+<p  align="right">Made with ❤️ by <a href="https://github.com/matg0mes">matg0mes</a>.</p>
