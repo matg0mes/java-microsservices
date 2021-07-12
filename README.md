@@ -1,4 +1,13 @@
-# Java Microsservices
+<h1> 
+  Java Microsservices 
+</h1>
+
+<p>
+  
+  ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  
+</p>
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/28c56943ab91d6036adc)
 
